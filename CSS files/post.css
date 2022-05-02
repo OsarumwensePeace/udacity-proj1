@@ -1,0 +1,13 @@
+aside{
+    /* border: 2px solid rgb(152, 223, 59); */
+    padding: 0px 10px;
+}
+
+.boxTxt{
+    border: 1px solid black;
+}
+
+.about{
+    background-color: #f4f4f4;
+    padding: 10px;
+}

@@ -1,0 +1,8 @@
+.card{
+    box-shadow: 2px 0px 4px #747171be ;
+    text-decoration: none;
+    color: black;
+}
+.card:hover {
+    transform: scale(0.98);
+}
